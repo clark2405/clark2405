@@ -28,20 +28,7 @@ I build software end to end — web platforms, mobile apps, desktop tools, and t
 </p>
 
 
----
 
-### ⏳ TRAJECTORY TIMELINE
-
-| YEAR | TRAJECTORY MILESTONE |
-| :---: | :--- |
-| **2021** | 🧬 First lines of code (HTML/CSS. Wireframes and curiosity) |
-| **2022** | 🌐 Discovered the browser (JavaScript, React, interactive layouts) |
-| **2023** | 🚀 Shipped real work (First client sites in production) |
-| **2024** | 🎭 Motion as craft (Deep dive into GSAP, Lenis, and transition timings) |
-| **2025** | 🌌 Three.js + shaders (Real-time 3D graphics in browser canvas) |
-| **2026** | ⚡ Computer Engineer in Cebu, PH (Building software end to end) |
-
----
 
 ### 📊 TELEMETRY ANALYTICS
 
