@@ -32,6 +32,7 @@ I build software end to end — web platforms, mobile apps, desktop tools, and t
 | **GEO FIX** | `10.3157° N, 123.8854° E` (Cebu City, PH) | `FIX_ACQUIRED` |
 | **CLEARANCE** | `ECHO-07` | `GRANTED` |
 | **PORTFOLIO** | [clarkjaca.com](https://www.clarkjaca.com) | `SECURE_CONNECTION` |
+| **SYS UPLINKS** | ![Profile Views](https://komarev.com/normal-badge/?username=clark2405&color=22d3ee&style=flat-square&label=SYS%20UPLINKS&labelColor=000000) | `LIVE_COUNTER` |
 
 ---
 
@@ -120,10 +121,24 @@ Custom-themed stats generated from real-time GitHub activity:
 
 <p align="left">
   <a href="https://github.com/clark2405">
-    <img src="https://github-readme-stats.vercel.app/api?username=clark2405&show_icons=true&theme=dark&bg_color=000000&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&border_color=22d3ee&hide_border=false&border_radius=0" alt="Clark's GitHub Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=clark2405&show_icons=true&theme=dark&bg_color=000000&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&border_color=22d3ee&hide_border=false&border_radius=0" alt="Clark's GitHub Stats" height="165" />
   </a>
   <a href="https://github.com/clark2405">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clark2405&layout=compact&theme=dark&bg_color=000000&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&border_color=22d3ee&hide_border=false&border_radius=0&langs_count=6" alt="Top Langs" height="150" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=clark2405&theme=dark&background=000000&ring=22d3ee&fire=22d3ee&currStreakNum=ffffff&sideNums=ffffff&sideLabels=a0aec0&dates=22d3ee&currStreakLabel=22d3ee&border=22d3ee&hide_border=false&border_radius=0" alt="GitHub Streak" height="165" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/clark2405">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clark2405&layout=compact&theme=dark&bg_color=000000&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&border_color=22d3ee&hide_border=false&border_radius=0&langs_count=6" alt="Top Languages" height="165" />
+  </a>
+</p>
+
+#### 📈 CONTRIBUTION DYNAMICS
+
+<p align="left">
+  <a href="https://github.com/clark2405">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=clark2405&bg_color=000000&color=22d3ee&line=22d3ee&point=ffffff&area=true&area_color=22d3ee&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY%20GRAPH" alt="Contribution Graph" width="100%" style="max-width: 820px;" />
   </a>
 </p>
 
