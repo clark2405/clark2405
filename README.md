@@ -8,16 +8,17 @@
 
 # ─── [ CLARK JACA // SYSTEM PORTAL ] ──────────────────────────────────────────
 
-```
+<pre align="center">
+<font color="#22d3ee"><b>
    ________               __         __
   / ____/ /___ __________/ /__      / /___ _________ _
  / /   / / __ `/ ___/ ___/ //_/ _  / / __ `/ ___/ __ `/
 / /___/ / /_/ / /  (__  ) ,<   / /_/ / /_/ / /__/ /_/ /
 \____/_/\__,_/_/  /____/_/|_|  \____/\__,_/\___/\__,_/
-
+</b></font>
   » Full-Stack Developer & UI/UX Craftsperson
   » Cebu City, PH // 10.3157° N, 123.8854° E
-```
+</pre>
 
 I build software end to end — web platforms, mobile apps, desktop tools, and the back ends that hold them up. Motion and typography are the finish; the system underneath is the work.
 
@@ -32,7 +33,7 @@ I build software end to end — web platforms, mobile apps, desktop tools, and t
 | **GEO FIX** | `10.3157° N, 123.8854° E` (Cebu City, PH) | `FIX_ACQUIRED` |
 | **CLEARANCE** | `ECHO-07` | `GRANTED` |
 | **PORTFOLIO** | [clarkjaca.com](https://www.clarkjaca.com) | `SECURE_CONNECTION` |
-| **SYS UPLINKS** | ![Profile Views](https://komarev.com/normal-badge/?username=clark2405&color=22d3ee&style=flat-square&label=SYS%20UPLINKS&labelColor=000000) | `LIVE_COUNTER` |
+| **SYS UPLINKS** | <img src="https://komarev.com/normal-badge/?username=clark2405&color=22d3ee&style=flat-square&label=UPLINKS&labelColor=161b22" alt="Uplinks" /> | `LIVE_COUNTER` |
 
 ---
 
@@ -40,16 +41,18 @@ I build software end to end — web platforms, mobile apps, desktop tools, and t
 
 Our core stack, optimized for smooth interactions and robust systems:
 
-```
-Next.js         [████████████████████████████████] 92%
-React / Native  [██████████████████████████████  ] 90%
-TypeScript      [████████████████████████████    ] 85%
-GSAP / Motion   [███████████████████████████     ] 82%
-Three.js        [██████████████████████          ] 68%
-Laravel / PHP   [████████████████████            ] 65%
-C# / .NET       [█████████████████               ] 55%
-Swift           [████████████████                ] 54%
-```
+| TECHNOLOGY | LEVEL / VALUE | STATUS |
+| :--- | :--- | :--- |
+| **Next.js** | <font color="#22d3ee">█████████████████████████████</font><font color="#30363d">███</font> | `92%` |
+| **React / Native** | <font color="#22d3ee">████████████████████████████</font><font color="#30363d">████</font> | `90%` |
+| **TypeScript** | <font color="#22d3ee">███████████████████████████</font><font color="#30363d">█████</font> | `85%` |
+| **GSAP / Motion** | <font color="#22d3ee">██████████████████████████</font><font color="#30363d">██████</font> | `82%` |
+| **Three.js** | <font color="#22d3ee">██████████████████████</font><font color="#30363d">██████████</font> | `68%` |
+| **Laravel / PHP** | <font color="#22d3ee">█████████████████████</font><font color="#30363d">███████████</font> | `65%` |
+| **C# / .NET** | <font color="#22d3ee">██████████████████</font><font color="#30363d">██████████████</font> | `55%` |
+| **Swift** | <font color="#22d3ee">█████████████████</font><font color="#30363d">███████████████</font> | `54%` |
+
+<br />
 
 #### Tech Ecosystem Badges:
 <p align="left">
@@ -65,6 +68,7 @@ Swift           [████████████████               
   <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=22d3ee" alt="MySQL" />
   <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=22d3ee" alt="Supabase" />
 </p>
+
 ---
 
 ### ⏳ TRAJECTORY TIMELINE
