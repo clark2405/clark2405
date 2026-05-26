@@ -46,11 +46,11 @@ I build software end to end — web platforms, mobile apps, desktop tools, and t
 
 ---
 
-### 🛰️ CONNECT / UPLINK
+### CONNECT / UPLINK
 
 *   **Website:** [clarkjaca.com](https://www.clarkjaca.com)
 *   **LinkedIn:** [linkedin.com/in/clarkjaca](https://linkedin.com)
-*   **GitHub:** [@clark2405](https://github.com/clark2405)
+*   **Email:** [clarkjaca@gmail.com](mailto:clarkjaca@gmail.com)
 
 ```
 └─ SYSTEM UPLINK TERMINATED // [BYE]
