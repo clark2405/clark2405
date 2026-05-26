@@ -22,7 +22,7 @@ I build software end to end — web platforms, mobile apps, desktop tools, and t
 
 
 
-#### ⚙️ TECH STACK / ECOSYSTEM
+#### TECH STACK / ECOSYSTEM
 <p align="left">
   <img src="./carousel.svg" alt="Tech Stack Carousel" width="100%" />
 </p>
@@ -36,7 +36,7 @@ I build software end to end — web platforms, mobile apps, desktop tools, and t
   </a>
 </p>
 
-#### 📈 CONTRIBUTION DYNAMICS
+#### CONTRIBUTION DYNAMICS
 
 <p align="center">
   <a href="https://github.com/clark2405">
