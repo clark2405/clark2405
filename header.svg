@@ -73,8 +73,8 @@
   <!-- HUD Telemetry Tags -->
   <text x="30" y="38" class="hud-text">SYS.LOC // 10.3157 N 123.8854 E</text>
   <text x="770" y="38" text-anchor="end" class="hud-text">STATUS // ONLINE</text>
-  <text x="30" y="168" class="hud-text">CLEARANCE // ECHO-07</text>
-  <text x="770" y="168" text-anchor="end" class="hud-text">DES_SYS // CYBER-HUD v4</text>
+  <text x="30" y="168" class="hud-text">TEAM // MCLAREN [LN4 &amp; OP81]</text>
+  <text x="770" y="168" text-anchor="end" class="hud-text">ROUTE // ITA (FUTURE_FIX)</text>
 
   <!-- Center Content -->
   <!-- Align items perfectly -->
