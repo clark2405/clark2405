@@ -6,17 +6,11 @@
 └────────────────────────────────────────────────────────┘
 -->
 
-<pre align="center">
-<font color="#22d3ee"><b>
-   ________               __         __
-  / ____/ /___ __________/ /__      / /___ _________ _
- / /   / / __ `/ ___/ ___/ //_/ _  / / __ `/ ___/ __ `/
-/ /___/ / /_/ / /  (__  ) ,<   / /_/ / /_/ / /__/ /_/ /
-\____/_/\__,_/_/  /____/_/|_|  \____/\__,_/\___/\__,_/
-</b></font>
-  » Full-Stack Developer & UI/UX Craftsperson
-  » Cebu City, PH // 10.3157° N, 123.8854° E
-</pre>
+<p align="center">
+  <img src="./header.svg" alt="Clark Jaca Header" width="100%" />
+</p>
+
+
 
 I build software end to end — web platforms, mobile apps, desktop tools, and the back ends that hold them up. Motion and typography are the finish; the system underneath is the work.
 
