@@ -30,10 +30,6 @@ I build software end to end — web platforms, mobile apps, desktop tools, and t
 
 
 
-### 📊 TELEMETRY ANALYTICS
-
-Custom-themed stats generated from real-time GitHub activity:
-
 <p align="center">
   <a href="https://github.com/clark2405">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=clark2405&theme=transparent&ring=22d3ee&fire=22d3ee&currStreakNum=ffffff&sideNums=ffffff&sideLabels=a0aec0&dates=22d3ee&currStreakLabel=22d3ee&border=22d3ee&hide_border=false&border_radius=0" alt="GitHub Streak" height="165" />
