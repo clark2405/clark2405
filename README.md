@@ -36,16 +36,7 @@ Custom-themed stats generated from real-time GitHub activity:
 
 <p align="center">
   <a href="https://github.com/clark2405">
-    <img src="https://github-readme-stats.vercel.app/api?username=clark2405&show_icons=true&bg_color=00000000&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&border_color=22d3ee&hide_border=false&border_radius=0" alt="Clark's GitHub Stats" height="165" />
-  </a>
-  <a href="https://github.com/clark2405">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=clark2405&theme=transparent&ring=22d3ee&fire=22d3ee&currStreakNum=ffffff&sideNums=ffffff&sideLabels=a0aec0&dates=22d3ee&currStreakLabel=22d3ee&border=22d3ee&hide_border=false&border_radius=0" alt="GitHub Streak" height="165" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/clark2405">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clark2405&layout=compact&bg_color=00000000&title_color=22d3ee&text_color=ffffff&icon_color=22d3ee&border_color=22d3ee&hide_border=false&border_radius=0&langs_count=6" alt="Top Languages" height="165" />
   </a>
 </p>
 
