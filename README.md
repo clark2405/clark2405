@@ -65,41 +65,6 @@ Swift           [████████████████               
   <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=22d3ee" alt="MySQL" />
   <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=22d3ee" alt="Supabase" />
 </p>
-
----
-
-### 📂 PROJECT CATALOG
-
-A working summary of selected projects from the central repository:
-
-#### ⚡ Shipped Projects
-*   **[Sudlon Integrated School](https://sudlon.edu)** (2026)
-    *   *Tagline:* Official site for a public school in Cebu.
-    *   *Tech:* PHP, Laravel, Blade, MySQL, Tailwind CSS.
-    *   *Role:* Owner / Solo Architect.
-*   **[WOBBY](https://github.com/Akihito0/WOBBY)** (2026)
-    *   *Tagline:* AI fitness coach in your camera.
-    *   *Tech:* React Native, Expo, TypeScript, MediaPipe, TensorFlow, Supabase.
-    *   *Role:* Contributor (Heart-rate integration, Dashboard charts, UX).
-*   **[Katipunan Hub](https://github.com/Vann-9214/Katipunan-Hub)** (2025)
-    *   *Tagline:* Community operations platform.
-    *   *Tech:* Next.js, React, TypeScript, Vercel.
-    *   *Role:* Contributor (Lost-and-found feature, Landing design, UI refinements).
-*   **[Barangay Information Management System](https://github.com/jhnmichl77/CPE340_BIMS)** (2024)
-    *   *Tagline:* Barangay resident records desktop app.
-    *   *Tech:* C#, .NET, Windows Forms.
-    *   *Role:* Contributor (Resident module, Integration testing).
-*   **[Smart Attendance Management System](https://github.com/clark2405/FinalProject_JACA)** (2024)
-    *   *Tagline:* Class attendance tracking capstone.
-    *   *Tech:* C#, .NET, Windows Forms, MySQL.
-    *   *Role:* Owner / Creator.
-
-#### 🛠️ In-Progress
-*   **[SPOT](https://github.com/Klipshin/SPOT)** (2025)
-    *   *Tagline:* AI species ID + community verification.
-    *   *Tech:* Next.js, React, TypeScript, AI/ML Pipeline, Vercel.
-    *   *Role:* Contributor.
-
 ---
 
 ### ⏳ TRAJECTORY TIMELINE
