@@ -20,19 +20,6 @@
 
 I build software end to end — web platforms, mobile apps, desktop tools, and the back ends that hold them up. Motion and typography are the finish; the system underneath is the work.
 
----
-
-### 📡 SYSTEM STATUS & TELEMETRY
-
-| OPERATOR // IDENT | VALUE / TELEMETRY | STATUS / UPLINK |
-| :--- | :--- | :--- |
-| **CALLSIGN** | `JACA` | `ACTIVE` 🟢 |
-| **ROLE** | Full-Stack Developer / Designer | `SYS_OK` |
-| **GEO FIX** | `10.3157° N, 123.8854° E` (Cebu City, PH) | `FIX_ACQUIRED` |
-| **CLEARANCE** | `ECHO-07` | `GRANTED` |
-| **PORTFOLIO** | [clarkjaca.com](https://www.clarkjaca.com) | `SECURE_CONNECTION` |
-
----
 
 
 #### ⚙️ TECH STACK / ECOSYSTEM
