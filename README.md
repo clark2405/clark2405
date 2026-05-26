@@ -52,22 +52,22 @@ Our core stack, optimized for smooth interactions and robust systems:
 | **C# / .NET** | <font color="#22d3ee">██████████████████</font><font color="#30363d">██████████████</font> | `55%` |
 | **Swift** | <font color="#22d3ee">█████████████████</font><font color="#30363d">███████████████</font> | `54%` |
 
-<br />
 
-#### Tech Ecosystem Badges:
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=22d3ee" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=22d3ee" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=22d3ee" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/GSAP-000000?style=flat-square&logo=greensock&logoColor=22d3ee" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=22d3ee" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=22d3ee" alt="Laravel" />
-  <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=c-sharp&logoColor=22d3ee" alt="C#" />
-  <img src="https://img.shields.io/badge/Swift-000000?style=flat-square&logo=swift&logoColor=22d3ee" alt="Swift" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=22d3ee" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=22d3ee" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=22d3ee" alt="Supabase" />
-</p>
+#### ⚙️ CORE TECHNOLOGIES / RUNNING MARQUEE
+<marquee direction="left" scrollamount="4" behavior="scroll" loop="infinite" style="font-family: monospace; font-size: 13px;">
+  <font color="#22d3ee"><b>[ NEXT.JS ]</b></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <font color="#22d3ee"><b>[ REACT ]</b></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <font color="#22d3ee"><b>[ GSAP ]</b></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <font color="#22d3ee"><b>[ THREE.JS ]</b></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <font color="#22d3ee"><b>[ TAILWIND CSS ]</b></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <font color="#22d3ee"><b>[ TYPESCRIPT ]</b></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <font color="#22d3ee"><b>[ NODE.JS ]</b></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <font color="#22d3ee"><b>[ WEBGL ]</b></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <font color="#22d3ee"><b>[ FRAMER MOTION ]</b></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <font color="#22d3ee"><b>[ WEBASSEMBLY ]</b></font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <font color="#22d3ee"><b>[ SWIFT ]</b></font>
+</marquee>
+
 
 ---
 
