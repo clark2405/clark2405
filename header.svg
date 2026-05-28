@@ -51,6 +51,32 @@
         98% { transform: translate(-1px, -2px); }
         99% { transform: translate(1px, 2px); }
       }
+
+      @media (prefers-color-scheme: light) {
+        .hud-text {
+          fill: #0891b2;
+          opacity: 0.95;
+        }
+        .title {
+          fill: #0891b2;
+          text-shadow: 0 0 10px rgba(8, 145, 178, 0.25);
+        }
+        .subtitle {
+          fill: #1e293b;
+          opacity: 1;
+        }
+        .coordinate {
+          fill: #0891b2;
+          opacity: 0.95;
+        }
+        .bracket {
+          stroke: #0891b2;
+          opacity: 0.95;
+        }
+        .grid-line {
+          stroke: rgba(8, 145, 178, 0.2);
+        }
+      }
     </style>
   </defs>
 

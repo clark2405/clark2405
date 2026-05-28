@@ -26,7 +26,11 @@ I build software end to end — web platforms, mobile apps, desktop tools, and t
 
 <p align="center">
   <a href="https://github.com/clark2405">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=clark2405&theme=transparent&ring=22d3ee&fire=22d3ee&currStreakNum=ffffff&sideNums=ffffff&sideLabels=a0aec0&dates=22d3ee&currStreakLabel=22d3ee&border=22d3ee&hide_border=false&border_radius=0" alt="GitHub Streak" height="165" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=clark2405&amp;theme=transparent&amp;ring=22d3ee&amp;fire=22d3ee&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;sideLabels=a0aec0&amp;dates=22d3ee&amp;currStreakLabel=22d3ee&amp;border=22d3ee&amp;hide_border=false&amp;border_radius=0">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=clark2405&amp;theme=transparent&amp;ring=0891b2&amp;fire=0891b2&amp;currStreakNum=1e293b&amp;sideNums=1e293b&amp;sideLabels=475569&amp;dates=0891b2&amp;currStreakLabel=0891b2&amp;border=0891b2&amp;hide_border=false&amp;border_radius=0">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=clark2405&amp;theme=transparent&amp;ring=22d3ee&amp;fire=22d3ee&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;sideLabels=a0aec0&amp;dates=22d3ee&amp;currStreakLabel=22d3ee&amp;border=22d3ee&amp;hide_border=false&amp;border_radius=0" alt="GitHub Streak" height="165" />
+    </picture>
   </a>
 </p>
 
@@ -34,7 +38,11 @@ I build software end to end — web platforms, mobile apps, desktop tools, and t
 
 <p align="center">
   <a href="https://github.com/clark2405">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=clark2405&bg_color=transparent&color=22d3ee&line=22d3ee&point=ffffff&area=true&area_color=22d3ee&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY%20GRAPH" alt="Contribution Graph" width="100%" style="max-width: 820px;" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=clark2405&amp;bg_color=transparent&amp;color=22d3ee&amp;line=22d3ee&amp;point=ffffff&amp;area=true&amp;area_color=22d3ee&amp;hide_border=true&amp;custom_title=CONTRIBUTION%20ACTIVITY%20GRAPH">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=clark2405&amp;bg_color=transparent&amp;color=0891b2&amp;line=0891b2&amp;point=0891b2&amp;area=true&amp;area_color=0891b2&amp;hide_border=true&amp;custom_title=CONTRIBUTION%20ACTIVITY%20GRAPH">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=clark2405&amp;bg_color=transparent&amp;color=22d3ee&amp;line=22d3ee&amp;point=ffffff&amp;area=true&amp;area_color=22d3ee&amp;hide_border=true&amp;custom_title=CONTRIBUTION%20ACTIVITY%20GRAPH" alt="Contribution Graph" width="100%" style="max-width: 820px;" />
+    </picture>
   </a>
 </p>
 
