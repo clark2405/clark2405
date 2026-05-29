@@ -27,9 +27,9 @@ I build software end to end — web platforms, mobile apps, desktop tools, and t
 <p align="center">
   <a href="https://github.com/clark2405">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=clark2405&amp;theme=transparent&amp;ring=22d3ee&amp;fire=22d3ee&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;sideLabels=a0aec0&amp;dates=22d3ee&amp;currStreakLabel=22d3ee&amp;border=22d3ee&amp;hide_border=false&amp;border_radius=0">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=clark2405&amp;theme=transparent&amp;ring=0891b2&amp;fire=0891b2&amp;currStreakNum=1e293b&amp;sideNums=1e293b&amp;sideLabels=475569&amp;dates=0891b2&amp;currStreakLabel=0891b2&amp;border=0891b2&amp;hide_border=false&amp;border_radius=0">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=clark2405&amp;theme=transparent&amp;ring=22d3ee&amp;fire=22d3ee&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;sideLabels=a0aec0&amp;dates=22d3ee&amp;currStreakLabel=22d3ee&amp;border=22d3ee&amp;hide_border=false&amp;border_radius=0" alt="GitHub Streak" height="165" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=clark2405&amp;theme=transparent&amp;ring=22d3ee&amp;fire=22d3ee&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;sideLabels=a0aec0&amp;dates=22d3ee&amp;currStreakLabel=22d3ee&amp;border=22d3ee&amp;hide_border=false&amp;border_radius=0&amp;cb=20260529">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=clark2405&amp;theme=transparent&amp;ring=0891b2&amp;fire=0891b2&amp;currStreakNum=1e293b&amp;sideNums=1e293b&amp;sideLabels=475569&amp;dates=0891b2&amp;currStreakLabel=0891b2&amp;border=0891b2&amp;hide_border=false&amp;border_radius=0&amp;cb=20260529">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=clark2405&amp;theme=transparent&amp;ring=22d3ee&amp;fire=22d3ee&amp;currStreakNum=ffffff&amp;sideNums=ffffff&amp;sideLabels=a0aec0&amp;dates=22d3ee&amp;currStreakLabel=22d3ee&amp;border=22d3ee&amp;hide_border=false&amp;border_radius=0&amp;cb=20260529" alt="GitHub Streak" height="165" />
     </picture>
   </a>
 </p>
