@@ -38,11 +38,7 @@ I build software end to end — web platforms, mobile apps, desktop tools, and t
 
 <p align="center">
   <a href="https://github.com/clark2405">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=clark2405&amp;bg_color=transparent&amp;color=22d3ee&amp;line=22d3ee&amp;point=ffffff&amp;area=true&amp;area_color=22d3ee&amp;hide_border=true&amp;custom_title=CONTRIBUTION%20ACTIVITY%20GRAPH">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=clark2405&amp;bg_color=transparent&amp;color=0891b2&amp;line=0891b2&amp;point=0891b2&amp;area=true&amp;area_color=0891b2&amp;hide_border=true&amp;custom_title=CONTRIBUTION%20ACTIVITY%20GRAPH">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=clark2405&amp;bg_color=transparent&amp;color=22d3ee&amp;line=22d3ee&amp;point=ffffff&amp;area=true&amp;area_color=22d3ee&amp;hide_border=true&amp;custom_title=CONTRIBUTION%20ACTIVITY%20GRAPH" alt="Contribution Graph" width="100%" style="max-width: 820px;" />
-    </picture>
+    <img src="./activity-graph.svg" alt="Contribution Activity Graph" width="100%" />
   </a>
 </p>
 

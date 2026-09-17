@@ -1,0 +1,93 @@
+<svg width="820" height="300" viewBox="0 0 820 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-family: 'Share Tech Mono', 'Courier New', Courier, monospace; font-size: 13px; letter-spacing: 2px; fill: #22d3ee; }
+      .meta { font-family: 'Share Tech Mono', 'Courier New', Courier, monospace; font-size: 10px; letter-spacing: 1px; fill: #a0aec0; }
+      .axis { font-family: 'Share Tech Mono', 'Courier New', Courier, monospace; font-size: 10px; fill: #a0aec0; }
+      .grid { stroke: rgba(34, 211, 238, 0.12); stroke-width: 1; stroke-dasharray: 4 4; }
+      .bracket { stroke: #22d3ee; stroke-width: 1.5; opacity: 0.8; }
+      .line { stroke: #22d3ee; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+      .pt { fill: #ffffff; stroke: #22d3ee; stroke-width: 1.2; }
+      .stop-a { stop-color: #22d3ee; stop-opacity: 0.35; }
+      .stop-b { stop-color: #22d3ee; stop-opacity: 0; }
+      .draw { stroke-dasharray: 3000; animation: draw 2.4s ease-out; }
+      @keyframes draw { from { stroke-dashoffset: 3000; } to { stroke-dashoffset: 0; } }
+      @media (prefers-color-scheme: light) {
+        .title { fill: #0891b2; }
+        .meta, .axis { fill: #475569; }
+        .grid { stroke: rgba(8, 145, 178, 0.18); }
+        .bracket, .line { stroke: #0891b2; }
+        .pt { fill: #0891b2; stroke: #0891b2; }
+        .stop-a, .stop-b { stop-color: #0891b2; }
+      }
+    </style>
+    <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" class="stop-a" stop-color="#22d3ee" stop-opacity="0.35"/>
+      <stop offset="1" class="stop-b" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- HUD corner brackets -->
+  <path class="bracket" d="M2 18 V2 H18"/>
+  <path class="bracket" d="M802 2 H818 V18"/>
+  <path class="bracket" d="M2 282 V298 H18"/>
+  <path class="bracket" d="M802 298 H818 V282"/>
+
+  <text class="title" x="52" y="30">CONTRIBUTION ACTIVITY // LAST 31 DAYS</text>
+  <text class="meta" x="792" y="30" text-anchor="end">TOTAL 16 · PEAK 4 · 2026-08-18 → 2026-09-17</text>
+
+  <g>
+    <line class="grid" x1="52" x2="792" y1="256" y2="256"/>
+    <text class="axis" x="42" y="259.5" text-anchor="end">0</text>
+    <line class="grid" x1="52" x2="792" y1="206" y2="206"/>
+    <text class="axis" x="42" y="209.5" text-anchor="end">1</text>
+    <line class="grid" x1="52" x2="792" y1="156" y2="156"/>
+    <text class="axis" x="42" y="159.5" text-anchor="end">2</text>
+    <line class="grid" x1="52" x2="792" y1="106" y2="106"/>
+    <text class="axis" x="42" y="109.5" text-anchor="end">3</text>
+    <line class="grid" x1="52" x2="792" y1="56" y2="56"/>
+    <text class="axis" x="42" y="59.5" text-anchor="end">4</text>
+    <text class="axis" x="52" y="276" text-anchor="middle">08/18</text>
+    <text class="axis" x="175.33333333333331" y="276" text-anchor="middle">08/23</text>
+    <text class="axis" x="298.66666666666663" y="276" text-anchor="middle">08/28</text>
+    <text class="axis" x="422" y="276" text-anchor="middle">09/02</text>
+    <text class="axis" x="545.3333333333333" y="276" text-anchor="middle">09/07</text>
+    <text class="axis" x="668.6666666666667" y="276" text-anchor="middle">09/12</text>
+    <text class="axis" x="792" y="276" text-anchor="middle">09/17</text>
+  </g>
+  <path d="M52.0,156.0 L76.7,256.0 L101.3,256.0 L126.0,256.0 L150.7,256.0 L175.3,256.0 L200.0,256.0 L224.7,256.0 L249.3,106.0 L274.0,256.0 L298.7,256.0 L323.3,256.0 L348.0,156.0 L372.7,56.0 L397.3,206.0 L422.0,206.0 L446.7,256.0 L471.3,256.0 L496.0,256.0 L520.7,256.0 L545.3,256.0 L570.0,256.0 L594.7,256.0 L619.3,256.0 L644.0,256.0 L668.7,256.0 L693.3,256.0 L718.0,256.0 L742.7,206.0 L767.3,206.0 L792.0,206.0 L792.0,256 L52,256 Z" fill="url(#fill)"/>
+  <path class="line draw" d="M52.0,156.0 L76.7,256.0 L101.3,256.0 L126.0,256.0 L150.7,256.0 L175.3,256.0 L200.0,256.0 L224.7,256.0 L249.3,106.0 L274.0,256.0 L298.7,256.0 L323.3,256.0 L348.0,156.0 L372.7,56.0 L397.3,206.0 L422.0,206.0 L446.7,256.0 L471.3,256.0 L496.0,256.0 L520.7,256.0 L545.3,256.0 L570.0,256.0 L594.7,256.0 L619.3,256.0 L644.0,256.0 L668.7,256.0 L693.3,256.0 L718.0,256.0 L742.7,206.0 L767.3,206.0 L792.0,206.0"/>
+  <g>
+    <circle class="pt" cx="52.0" cy="156.0" r="2.6"><title>2026-08-18: 2</title></circle>
+    <circle class="pt" cx="76.7" cy="256.0" r="2.6"><title>2026-08-19: 0</title></circle>
+    <circle class="pt" cx="101.3" cy="256.0" r="2.6"><title>2026-08-20: 0</title></circle>
+    <circle class="pt" cx="126.0" cy="256.0" r="2.6"><title>2026-08-21: 0</title></circle>
+    <circle class="pt" cx="150.7" cy="256.0" r="2.6"><title>2026-08-22: 0</title></circle>
+    <circle class="pt" cx="175.3" cy="256.0" r="2.6"><title>2026-08-23: 0</title></circle>
+    <circle class="pt" cx="200.0" cy="256.0" r="2.6"><title>2026-08-24: 0</title></circle>
+    <circle class="pt" cx="224.7" cy="256.0" r="2.6"><title>2026-08-25: 0</title></circle>
+    <circle class="pt" cx="249.3" cy="106.0" r="2.6"><title>2026-08-26: 3</title></circle>
+    <circle class="pt" cx="274.0" cy="256.0" r="2.6"><title>2026-08-27: 0</title></circle>
+    <circle class="pt" cx="298.7" cy="256.0" r="2.6"><title>2026-08-28: 0</title></circle>
+    <circle class="pt" cx="323.3" cy="256.0" r="2.6"><title>2026-08-29: 0</title></circle>
+    <circle class="pt" cx="348.0" cy="156.0" r="2.6"><title>2026-08-30: 2</title></circle>
+    <circle class="pt" cx="372.7" cy="56.0" r="2.6"><title>2026-08-31: 4</title></circle>
+    <circle class="pt" cx="397.3" cy="206.0" r="2.6"><title>2026-09-01: 1</title></circle>
+    <circle class="pt" cx="422.0" cy="206.0" r="2.6"><title>2026-09-02: 1</title></circle>
+    <circle class="pt" cx="446.7" cy="256.0" r="2.6"><title>2026-09-03: 0</title></circle>
+    <circle class="pt" cx="471.3" cy="256.0" r="2.6"><title>2026-09-04: 0</title></circle>
+    <circle class="pt" cx="496.0" cy="256.0" r="2.6"><title>2026-09-05: 0</title></circle>
+    <circle class="pt" cx="520.7" cy="256.0" r="2.6"><title>2026-09-06: 0</title></circle>
+    <circle class="pt" cx="545.3" cy="256.0" r="2.6"><title>2026-09-07: 0</title></circle>
+    <circle class="pt" cx="570.0" cy="256.0" r="2.6"><title>2026-09-08: 0</title></circle>
+    <circle class="pt" cx="594.7" cy="256.0" r="2.6"><title>2026-09-09: 0</title></circle>
+    <circle class="pt" cx="619.3" cy="256.0" r="2.6"><title>2026-09-10: 0</title></circle>
+    <circle class="pt" cx="644.0" cy="256.0" r="2.6"><title>2026-09-11: 0</title></circle>
+    <circle class="pt" cx="668.7" cy="256.0" r="2.6"><title>2026-09-12: 0</title></circle>
+    <circle class="pt" cx="693.3" cy="256.0" r="2.6"><title>2026-09-13: 0</title></circle>
+    <circle class="pt" cx="718.0" cy="256.0" r="2.6"><title>2026-09-14: 0</title></circle>
+    <circle class="pt" cx="742.7" cy="206.0" r="2.6"><title>2026-09-15: 1</title></circle>
+    <circle class="pt" cx="767.3" cy="206.0" r="2.6"><title>2026-09-16: 1</title></circle>
+    <circle class="pt" cx="792.0" cy="206.0" r="2.6"><title>2026-09-17: 1</title></circle>
+  </g>
+</svg>
